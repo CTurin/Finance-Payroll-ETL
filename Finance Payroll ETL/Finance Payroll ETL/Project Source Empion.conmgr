@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="empeon-db.ltccslabs.com,1433.empeon_data.chaniturin"
+  DTS:DTSID="{A9AC8F50-C69D-41A5-BCF9-27DCBDC66F74}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=empeon-db.ltccslabs.com,1433;User ID=chaniturin;Initial Catalog=empeon_data;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAvA/s2hplZkq7OIaC/XDtNQAAAAACAAAAAAADZgAAwAAAABAAAABpN86ORQb8kOkq9LX8sOY/AAAAAASAAACgAAAAEAAAAOFYvb/zw+gB8Ipkr4oyr5J4AAAAoUzIEOOOGHniXkmY4pI4Pb9I0ePdbfkiMNYPSolFZ48Qp+yTZiAbc5g+qwXReFoGJpZlZnCs+kWpS6cNHICs9uCI2v7c/ndNlKENO9nRSC2Y4otox0zNSo8SvgzPrPyZX1QQfHD62CGFn4SY1XNLIxzLnxjS7vPhFAAAAMC98uDrcz8AfKJ+eQ/56jq31hxJ</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

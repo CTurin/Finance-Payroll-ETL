@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="127.0.0.1,14600.intacct_staging.ltccs"
+  DTS:DTSID="{6E952A80-8AE1-4B8A-B35B-BE32F920B74D}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=127.0.0.1,14600;User ID=ltccs;Initial Catalog=intacct_staging;Persist Security Info=True;Application Name=&quot;SSIS-Finance Payroll ETL-{6E952A80-8AE1-4B8A-B35B-BE32F920B74D}127.0.0.1,14600.intacct_staging.ltccs&quot;;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAvA/s2hplZkq7OIaC/XDtNQAAAAACAAAAAAADZgAAwAAAABAAAAAf1gPfcfVy9gOWTPDtiJdZAAAAAASAAACgAAAAEAAAAJf7FUZMDPg0nhPCse1nbfqIAAAAbAl/b7XB5qvmoq21lBbudIiQlYF9bsditxiz4togH1w8Swl3l3qo6WOwXTyhwRoNGo+/c9tB7GSO+eBEQ/USauNTPeNFOyFgooAgl9a3j47j1TXrBEKklZq+DXbMV/kwEWJZCb4z6P57CI/AjOut02H6RSyF1TAZgQL/Z+Nak6MT4FULTK4xmhQAAABdNQddLHZrMRJExRYZt//qQ5P2kA==</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
